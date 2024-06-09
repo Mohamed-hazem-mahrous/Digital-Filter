@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Team Members](#Team-Members)
 - [Features](#features)
 - [Video Demonstration](#video-demonstration)
 - [Requirements](#requirements)
@@ -12,6 +13,14 @@
 
 ## Introduction
 The Digital Filter Designer app is a powerful tool for designing digital filters using a graphical interface. Users can add, move, and remove zeros and poles in the Z-plane, visualize the filter response, and apply real-time filtering to input signals.
+
+## Team Members
+The following team members have contributed to this project:
+- Mohamed Hazem Yehya
+- Assem Hussein
+- Kyrolos Emad
+- Arsany Maged
+
 
 ## Features
 
